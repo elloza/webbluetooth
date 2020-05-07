@@ -10,7 +10,7 @@
   "types": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/thegecko/webbluetooth.git"
+    "url": "git://github.com/elloza/webbluetooth.git"
   },
   "keywords": [
     "web-bluetooth",
@@ -40,6 +40,6 @@
   "dependencies": {
     "@types/node": "^8.0.54",
     "@types/web-bluetooth": "^0.0.5",
-    "noble": "github:elloza/noble.git"
+    "noble": "elloza/noble"
   }
 }
