@@ -38,8 +38,8 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
+    "noble": "elloza/noble",
     "@types/node": "^8.0.54",
     "@types/web-bluetooth": "^0.0.5",
-    "noble": "elloza/noble"
   }
 }
